@@ -1,24 +1,24 @@
 # Data Biography
 
-## Student Number: XXXXXXX
+## Student Number: 20138246
 
 ---
 
 ### 1. Who collected the data?
 
-_Your answer here_
+All interacting parties of the Airbnb platform form the source of the data, which is collected by the platform and stored in its database.
 
 ---
 
 ### 2. Why did they collect it?
 
-_Your answer here_
+Through the massive housing information and rental feedback information, the platform constitutes objective and true basic housing information, forming a more honest, fair, and clearly classified rental market. More importantly, it encourages housing owners to improve the quality of housing to adapt to the corresponding the needs of tenants.
 
 ---
 
 ### 3. How was it collected?
 
-_Your answer here_
+The process of collecting information includes: the host provides information, the platform payment modules record prices, and the tenant provide rental evaluation feedback. After the above process occurs repeatedly, a set of general feedback from different tenants will be formed, and a high probability event will be formed, which will encourage the house owner to adjust the house rent, facilities, services and other content according to the actual situation.
 
 ---
 
