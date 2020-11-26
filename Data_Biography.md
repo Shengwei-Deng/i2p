@@ -18,7 +18,7 @@ Through the massive housing information and rental feedback information, the pla
 
 ### 3. How was it collected?
 
-The process of collecting information includes: the host provides information, the platform payment modules record prices, and the tenant provide rental evaluation feedback. After the above process occurs repeatedly, a set of general feedback from different tenants will be formed, and a high probability event will be formed, which will encourage the house owner to adjust the house rent, facilities, services and other content according to the actual situation.
+The process of collecting information includes: the host provides information, the platform payment modules record prices, and the tenant provide rental evaluation feedback. After the above process occurs repeatedly, a set of general feedback from different tenants will be formed, and a high probability event will be formed, which will encourage the house owner to adjust the house rent, amenities, services and other content according to the actual situation.
 
 ---
 
