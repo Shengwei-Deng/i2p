@@ -55,7 +55,7 @@ The unsupported analysis includes: houses with low rental rates cannot accuratel
 
 ### 9. Which of the uses presented in Q.7 and Q.8 are _ethical_?
 
-Hay (2010) states that it is impossible to have a clear set of rules for conducting ethical research when it comes to doing research involving people. People's expectations of a researcher vary across cultures, which means that there is no "correct" approach to fit all contexts.
+Hay (2010) states that it is impossible to have a clear set of rules for conducting ethical research when it comes to doing research involving people. People's expectations of a researcher vary across cultures, which means that there is no "correct" approach to fit all contexts.[1]
 With the knowledge of the user, the data analysis used to get the general situation is ethical, and the mining of personal information may be unethical. For example, the information used to analyze housing situation, community management situation, real estate industry ecological situation, rent situation, population movement situation, tourism industry, business situation, etc. is beneficial to the development of the homestay rental industry and social economy. However, personal financial status, work, personal itinerary, rent affordability, family members and other information mined through the personal information of hosts and guests will cause damage to personal privacy. If the user information obtained by the website is associated with the content shared by the guests on Facebook, then there is a great possibility to fully grasp the guests' information, social relations and behavior, so that the guests has no privacy at all.
 
  
@@ -63,4 +63,4 @@ With the knowledge of the user, the data analysis used to get the general situat
 
 ### Reference
 
-Hay, l. (2010). Ethical practice in geographical research. In N. Clifford, S. French, & G. Valentine (Eds.), Key methods in geography (pp. 35-48). London: Sage
+[1]Hay, l. (2010). Ethical practice in geographical research. In N. Clifford, S. French, & G. Valentine (Eds.), Key methods in geography (pp. 35-48). London: Sage
