@@ -12,7 +12,7 @@ All interacting parties of the Airbnb platform form the source of the data, whic
 
 ### 2. Why did they collect it?
 
-The collected massive housing information and guest reviews constitute objective and true basic housing information. Promote the hosts to improve the quality of the housing to meet the needs of the corresponding guests. Encourage the platform to provide more integrity, fairness, and clearer classification of housing rental services.
+The collected massive housing information and guest reviews constitute objective and true basic housing information. Promote the hosts to improve the quality of the housing and to meet the needs of the corresponding guests. Encourage the platform to provide more integrity, fairness, and clearer classification of housing rental services.
 
 ---
 
