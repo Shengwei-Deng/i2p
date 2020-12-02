@@ -18,7 +18,7 @@ The massive housing information and guest feedback information collected by the 
 
 ### 3. How was it collected?
 
-The hosts provide basic personal information, housing-related information, rent and check-in time requirements. The Airbnb platform authenticates the information of the hosts, count all the hosts’ housing information, and improves the location information of the housing. The platform counts the hosts’ activity based on the hosts’ response. The platform records transaction-related information, and obtains the rental status in each period after integration. The platform counts the rental evaluations provided by the guests, and obtains evaluation information and various review scores in different periods after integration.
+The host provides basic personal information, housing-related information, price and occupancy requirements. The platform authenticates host information, counts all the host’s housing information, and improves housing location information. The platform counts the host’s activity based on the host’s response. The platform records transaction-related information, and obtains the rental status in each period after integration. The platform counts the rental evaluations provided by the guests, and obtains evaluation information and various review scores in different periods after integration.
 
 ---
 
