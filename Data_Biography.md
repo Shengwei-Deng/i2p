@@ -31,7 +31,7 @@ Basic information about the host. Information about all the host’s listings. H
 
 ### 5. What useful information is it missing?
 
-How to reach the house. Traffic around the house. Information related to the location of the house and rental purposes such as tourism, business, and commerce(attractions, shopping centers, restaurants, and hospitals around the house). Property Type. Deposit. Price fluctuations. House weekly price. House monthly rent. Requirements for guests.
+How to reach the house. Traffic around the house. Information related to the location of the house and rental purposes such as tourism, business, and commerce(attractions, shopping centers, restaurants, and hospitals around the house). Property Type. Deposit. Price fluctuations. House weekly price. House monthly price. Requirements for guests.
 
 ---
 
