@@ -25,7 +25,7 @@ The host provides basic personal information, housing-related information, price
 ### 4. What useful information does it contain?
 
 
-Basic information about the hosts. Hosts’ information certification. The activity of the hosts. All the hosts’ listing information. Basic information about the house. Information about facilities in the house. The location information of the house. The state of the house. The license of the house. The style of the house. The daily rent of the house. The time the house can be rented. The length of time the house has been leased in different time intervals. The number of reviews from past guests. The evaluation information of the guests at different time periods. Various review scores.
+Basic information about the host. Information about all the host’s listings. Host’s information certification. The activity of the host. Basic information about the house. Information about amenities in the house. The location information of the house. The state of the house. The license of the house. The style of the house. The daily price of the house. The time the house can be rented. The length of time the house has been leased in different time intervals. The number of reviews from past guests. The evaluation information of the guests at different time periods. Various review scores.
 
 ---
 
