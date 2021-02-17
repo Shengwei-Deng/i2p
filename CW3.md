@@ -8,3 +8,13 @@ Word count for the Executive Briefing:
 All interacting parties of the Airbnb platform form the source of the data, which is collected by the platform and stored in its database.
 
 ---
+### Executive Briefing:
+
+All interacting parties of the Airbnb platform form the source of the data, which is collected by the platform and stored in its database.
+
+---
+### Reproducible Analysis:
+
+All interacting parties of the Airbnb platform form the source of the data, which is collected by the platform and stored in its database.
+
+---
